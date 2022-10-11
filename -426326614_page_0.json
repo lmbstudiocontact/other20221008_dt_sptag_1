@@ -1,0 +1,115 @@
+{
+  "id_sptag": "-426326614",
+  "index_page": 0,
+  "name_cl_sptag": "Estarossa The Seven Deadly Sins",
+  "name_parent": "Anime",
+  "total_img": 4,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "-1235443090",
+  "hc_lt_nortag": "795950721",
+  "hc_lt_sptag": "-2126396491",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-753917753",
+      "hc_lt_id_sptag": "-616837684",
+      "id_img": "TheSevenDeadlySins_933760_crop2608_-1456824991",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie9Fce0BNImDccqc4tAgcZhp49FUOXYyixjWaG0WYFGv5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie9Fce0BNImDccqc4tAgcZhosiSdzR61x7mvV6WdTNdPZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "338511233"
+      ],
+      "lt_id_sptag": [
+        "-426326614"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-753917753",
+      "hc_lt_id_sptag": "-616837684",
+      "id_img": "TheSevenDeadlySins_933759_crop2608_-263226421",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifDInOGr7KbfvXDiXvIW4vq2YPU1P5tlFIsFWUjCbWKUpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifDInOGr7KbfvXDiXvIW4vqlmYHzWobWJUJTFNY8UCzQZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "338511233"
+      ],
+      "lt_id_sptag": [
+        "-426326614"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-753917753",
+      "hc_lt_id_sptag": "-616837684",
+      "id_img": "TheSevenDeadlySins_933758_crop2608_-1770778230",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifSe1SdPwpjNd1NJPK01Qx6eKRlwPrbSoBCo52DWtKKoZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifSe1SdPwpjNd1NJPK01Qx6Blz3KUD3wOiIL4YfAlE0ZJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "338511233"
+      ],
+      "lt_id_sptag": [
+        "-426326614"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-753917753",
+      "hc_lt_id_sptag": "-616837684",
+      "id_img": "TheSevenDeadlySins_909007_crop2608_-762943650",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieyxIVz0iypMkGj/zHI7gglIJUXSjrMaT5IO81h20XdOJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieyxIVz0iypMkGj/zHI7ggl4/p53DIhrYzYKq2IIUpH9pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "338511233"
+      ],
+      "lt_id_sptag": [
+        "-426326614"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-467032699",
+      "name_cl_nortag": "Boy",
+      "total_img": 8592,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "338511233",
+      "name_cl_nortag": "The Seven Deadly Sins",
+      "total_img": 78,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-426326614",
+      "name_cl_sptag": "Estarossa The Seven Deadly Sins",
+      "name_parent": "Anime",
+      "total": 4
+    }
+  ]
+}

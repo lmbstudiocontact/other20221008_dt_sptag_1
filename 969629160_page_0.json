@@ -1,0 +1,71 @@
+{
+  "id_sptag": "969629160",
+  "index_page": 0,
+  "name_cl_sptag": "Furry Anthropomorphic",
+  "name_parent": "Anime",
+  "total_img": 2,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "-671297419",
+  "hc_lt_nortag": "-1455045936",
+  "hc_lt_sptag": "1420387598",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1332822159",
+      "hc_lt_id_sptag": "318787689",
+      "id_img": "Original_583242_crop2608_205763488",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidmLLRCnTCCZx0F+MAPGYcGHM39zOkzPp2O+Uu1CiZRIZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidmLLRCnTCCZx0F+MAPGYcGr+BZT5HxRG/XjqIKck0VYpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "766871050"
+      ],
+      "lt_id_sptag": [
+        "969629160"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1332822159",
+      "hc_lt_id_sptag": "318787689",
+      "id_img": "Original_299751_crop2608_-646207327",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicFhVF+2zaAcBu25GVEQC+Wu9ARAqC6n5sgSce25OYqxJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicFhVF+2zaAcBu25GVEQC+W44IPA7hPkRplqnFahuW+9pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "766871050"
+      ],
+      "lt_id_sptag": [
+        "969629160"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "766871050",
+      "name_cl_nortag": "Original",
+      "total_img": 1020,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "969629160",
+      "name_cl_sptag": "Furry Anthropomorphic",
+      "name_parent": "Anime",
+      "total": 2
+    }
+  ]
+}

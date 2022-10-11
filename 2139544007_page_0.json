@@ -1,0 +1,160 @@
+{
+  "id_sptag": "2139544007",
+  "index_page": 0,
+  "name_cl_sptag": "Ghost Quartz Houseki no Kuni",
+  "name_parent": "Anime",
+  "total_img": 2,
+  "total_page": 0,
+  "hc_lt_alb": "-760531221",
+  "hc_lt_data_img": "1891043164",
+  "hc_lt_nortag": "-1488113754",
+  "hc_lt_sptag": "1468822163",
+  "lt_alb": [
+    {
+      "id_alb": "63410260",
+      "name_alb": "Anime",
+      "total_img": 85314
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1888892127",
+      "hc_lt_id_sptag": "1527514224",
+      "id_img": "HousekinoKuni_923749_crop2608_1534045263",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidFlneVZq2+gkjXl8JWpV2msMRrf2YYjq07jwNMpYIgWJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidFlneVZq2+gkjXl8JWpV2mbgCKrjWnPQKSLGN35ccUxZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "809580891",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "1271392973",
+        "2139544007",
+        "-353024394",
+        "-1092439432",
+        "-1176638482",
+        "-1823594757",
+        "1078827483",
+        "1097693819",
+        "2058364749"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "1888892127",
+      "hc_lt_id_sptag": "1900877229",
+      "id_img": "HousekinoKuni_923751_crop2608_1847998502",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieXg81N/K9H3mCJG0zcrVbm/mIluUrur36XV2WKV1FULpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieXg81N/K9H3mCJG0zcrVbm40bUugxfLgsU21nX3945oZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "809580891",
+        "-1182628656"
+      ],
+      "lt_id_sptag": [
+        "2139544007",
+        "-1092439432",
+        "1781720709",
+        "-1246545693",
+        "-1176638482",
+        "-1823594757",
+        "1078827483",
+        "1410951528"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "-1182628656",
+      "name_cl_nortag": "Girls",
+      "total_img": 68557,
+      "name_parent": "Anime"
+    },
+    {
+      "id_nortag": "809580891",
+      "name_cl_nortag": "Houseki no Kuni",
+      "total_img": 69,
+      "name_parent": "Anime"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "1781720709",
+      "name_cl_sptag": "Cairngorm Houseki no Kuni",
+      "name_parent": "Anime",
+      "total": 1
+    },
+    {
+      "id_sptag": "-1176638482",
+      "name_cl_sptag": "Dark Black",
+      "name_parent": "Anime",
+      "total": 4051
+    },
+    {
+      "id_sptag": "2139544007",
+      "name_cl_sptag": "Ghost Quartz Houseki no Kuni",
+      "name_parent": "Anime",
+      "total": 2
+    },
+    {
+      "id_sptag": "-1092439432",
+      "name_cl_sptag": "Girls Dark",
+      "name_parent": "Anime",
+      "total": 3468
+    },
+    {
+      "id_sptag": "1097693819",
+      "name_cl_sptag": "Girls Eyes Silver",
+      "name_parent": "Anime",
+      "total": 1109
+    },
+    {
+      "id_sptag": "2058364749",
+      "name_cl_sptag": "Girls Eyes White",
+      "name_parent": "Anime",
+      "total": 133
+    },
+    {
+      "id_sptag": "-1823594757",
+      "name_cl_sptag": "Girls Hair Silver",
+      "name_parent": "Anime",
+      "total": 16300
+    },
+    {
+      "id_sptag": "1271392973",
+      "name_cl_sptag": "Girls Hair White",
+      "name_parent": "Anime",
+      "total": 8666
+    },
+    {
+      "id_sptag": "-353024394",
+      "name_cl_sptag": "Girls Long Hair",
+      "name_parent": "Anime",
+      "total": 47407
+    },
+    {
+      "id_sptag": "1410951528",
+      "name_cl_sptag": "Girls Short Hair",
+      "name_parent": "Anime",
+      "total": 23769
+    },
+    {
+      "id_sptag": "1078827483",
+      "name_cl_sptag": "Girls Tie Bows",
+      "name_parent": "Anime",
+      "total": 61257
+    },
+    {
+      "id_sptag": "-1246545693",
+      "name_cl_sptag": "Lapis Lazuli Houseki no Kuni",
+      "name_parent": "Anime",
+      "total": 14
+    }
+  ]
+}

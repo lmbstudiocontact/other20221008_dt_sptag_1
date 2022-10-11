@@ -1,0 +1,143 @@
+{
+  "id_sptag": "-2106350211",
+  "index_page": 0,
+  "name_cl_sptag": "Ford Explorer",
+  "name_parent": "Car",
+  "total_img": 4,
+  "total_page": 0,
+  "hc_lt_alb": "51650555",
+  "hc_lt_data_img": "272789531",
+  "hc_lt_nortag": "-1507817891",
+  "hc_lt_sptag": "-1707466727",
+  "lt_alb": [
+    {
+      "id_alb": "67508",
+      "name_alb": "Car",
+      "total_img": 21900
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1510082445",
+      "hc_lt_id_sptag": "-966367074",
+      "id_img": "2020-Ford-Explorer-ST-V2-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifEmHqBOAVwJlDgiZIM5zcRHIKF1F5MHaDI8HKJabMU5ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifEmHqBOAVwJlDgiZIM5zcRzOo7ZAIvLo/fLMYn0FGzM5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "530186452"
+      ],
+      "lt_id_sptag": [
+        "-2106350211",
+        "-1924727691",
+        "-1808514493"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1510082445",
+      "hc_lt_id_sptag": "-1994514466",
+      "id_img": "2020-Ford-Explorer-ST-V4-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid62QOs+v724efT69Ka2DVVwLsM2LM8zAFEPNWguSrFdJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid62QOs+v724efT69Ka2DVVSNyFmrNAp6TrBZ2okK9O5JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "530186452"
+      ],
+      "lt_id_sptag": [
+        "-2106350211",
+        "-1924727691",
+        "2093425793"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1510082445",
+      "hc_lt_id_sptag": "1902181439",
+      "id_img": "2020-Ford-Explorer-ST-V3-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicu4Mx6U4gSWxISKKG57Zdjjs3GyV40QkODJPSq34XyUJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicu4Mx6U4gSWxISKKG57ZdjBRxYL3iJDaj0H4iZv2ZpAJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "530186452"
+      ],
+      "lt_id_sptag": [
+        "-2106350211",
+        "-1924727691",
+        "-2005027998"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1510082445",
+      "hc_lt_id_sptag": "2021150126",
+      "id_img": "2020-Ford-Explorer-ST-V5-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieFYKBGGLyXIjycde9KLVdijYjfznU0dLV0mGW/0++VH5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieFYKBGGLyXIjycde9KLVdizHVtNpWMW0BDho5KxWV8c5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "530186452"
+      ],
+      "lt_id_sptag": [
+        "1896912288",
+        "-2106350211",
+        "-1924727691"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "530186452",
+      "name_cl_nortag": "Ford",
+      "total_img": 1371,
+      "name_parent": "Car"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-1924727691",
+      "name_cl_sptag": "2020",
+      "name_parent": "Car",
+      "total": 476
+    },
+    {
+      "id_sptag": "-2106350211",
+      "name_cl_sptag": "Ford Explorer",
+      "name_parent": "Car",
+      "total": 4
+    },
+    {
+      "id_sptag": "-1808514493",
+      "name_cl_sptag": "V2-2160",
+      "name_parent": "Car",
+      "total": 104
+    },
+    {
+      "id_sptag": "-2005027998",
+      "name_cl_sptag": "V3-2160",
+      "name_parent": "Car",
+      "total": 152
+    },
+    {
+      "id_sptag": "2093425793",
+      "name_cl_sptag": "V4-2160",
+      "name_parent": "Car",
+      "total": 129
+    },
+    {
+      "id_sptag": "1896912288",
+      "name_cl_sptag": "V5-2160",
+      "name_parent": "Car",
+      "total": 131
+    }
+  ]
+}

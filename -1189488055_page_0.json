@@ -1,0 +1,499 @@
+{
+  "id_sptag": "-1189488055",
+  "index_page": 0,
+  "name_cl_sptag": "Ford Concepts",
+  "name_parent": "Car",
+  "total_img": 17,
+  "total_page": 0,
+  "hc_lt_alb": "51650555",
+  "hc_lt_data_img": "1316816405",
+  "hc_lt_nortag": "599548881",
+  "hc_lt_sptag": "1072298706",
+  "lt_alb": [
+    {
+      "id_alb": "67508",
+      "name_alb": "Car",
+      "total_img": 21900
+    }
+  ],
+  "lt_data_img": [
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1510082445",
+      "hc_lt_id_sptag": "-868616643",
+      "id_img": "2004-Ford-Mustang-GT-R-Concept-V2-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie29CkVRkQdOd4CtxcqX5hLd9DXXlh5L36vEBmknvyKS5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie29CkVRkQdOd4CtxcqX5hLQxB7wXXBZBgsyriy0wPWc5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "530186452"
+      ],
+      "lt_id_sptag": [
+        "-1978291909",
+        "-1189488055",
+        "-404222966",
+        "-946072087",
+        "1773147073"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1510082445",
+      "hc_lt_id_sptag": "941648861",
+      "id_img": "2006-Ford-Mustang-Giugiaro-Concept-V3-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicFSltMMP4v28tJ57qTKp0Jb1ZUdNtLJquRIExC8sshZ5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicFSltMMP4v28tJ57qTKp0Jd2rTVmMXrP0JDiQha+Kk2JVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "530186452"
+      ],
+      "lt_id_sptag": [
+        "-1189488055",
+        "-404222966",
+        "-1976444867",
+        "1773147073",
+        "-1142585592"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1510082445",
+      "hc_lt_id_sptag": "553310797",
+      "id_img": "2019-Ford-Bronco-R-Concept-V1-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidlVvgii5j+0G1a0vlo+Z5EtL/Vgcigu+gbihabDYoVgJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidlVvgii5j+0G1a0vlo+Z5EvUAlMtuKG11Onbu9IfOQ45Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "530186452"
+      ],
+      "lt_id_sptag": [
+        "-1189488055",
+        "-1612000988",
+        "1773147073",
+        "-1945045153"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1510082445",
+      "hc_lt_id_sptag": "369723385",
+      "id_img": "2012-Ford-Evos-Concept-V4-1536_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicSPIW1YKx63Q1FiNjbLi+SWpNGZ2fIiS56vbzBcd843ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicSPIW1YKx63Q1FiNjbLi+SSeQP6d9mHHojodi79P5UlZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "530186452"
+      ],
+      "lt_id_sptag": [
+        "-1189488055",
+        "-474683441",
+        "-1951509800",
+        "296773687",
+        "1773147073"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "2075566231",
+      "hc_lt_id_sptag": "-1599159414",
+      "id_img": "2004-Ford-Shelby-GR-1-Concept-V3-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif6h1jwpc1erbKTadfiT+3qYzihOkYQpGt+kfNG8IY7K5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif6h1jwpc1erbKTadfiT+3qUW5OvwVL2AlAyHzwNf1PtZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "1789060908",
+        "530186452"
+      ],
+      "lt_id_sptag": [
+        "-1978291909",
+        "-1189488055",
+        "1773147073",
+        "-1142585592"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1510082445",
+      "hc_lt_id_sptag": "-892428488",
+      "id_img": "2006-Ford-Mustang-Giugiaro-Concept-V2-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieJuFDVdxkM11hWveJ5J951YsbpQY53McDn5fvlnL4G9ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieJuFDVdxkM11hWveJ5J951AxzH8YjIEld13bI18SXIVpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "530186452"
+      ],
+      "lt_id_sptag": [
+        "-1189488055",
+        "-404222966",
+        "-1976444867",
+        "-946072087",
+        "1773147073"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1510082445",
+      "hc_lt_id_sptag": "317641443",
+      "id_img": "2019-Ford-Bronco-R-Concept-V2-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieTUuaV4yFC/ZdkNPVNJupjuqvqYrhmKK7U/kp1It8na5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieTUuaV4yFC/ZdkNPVNJupjyp4trk1JL/wbMLRSIf2EtZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "530186452"
+      ],
+      "lt_id_sptag": [
+        "-1189488055",
+        "-1808514493",
+        "1773147073",
+        "-1945045153"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "2075566231",
+      "hc_lt_id_sptag": "861730533",
+      "id_img": "2004-Ford-Shelby-GR-1-Concept-V2-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiecwROqeD63f9+7Lh6KVSWqH6Tvk40NaTW4dRYoY/2QbZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiecwROqeD63f9+7Lh6KVSWqxshSHT8a6vx93RMaEhw/OJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "1789060908",
+        "530186452"
+      ],
+      "lt_id_sptag": [
+        "-1978291909",
+        "-1189488055",
+        "-946072087",
+        "1773147073"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "2075566231",
+      "hc_lt_id_sptag": "-1599159414",
+      "id_img": "2004-Ford-Shelby-Cobra-Concept-V3-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiexkMV3s32QODUWmv5H9BwsauomrGYU6eGXF0ogUn33t5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiexkMV3s32QODUWmv5H9Bwssssv1lQ0nJUy7pe5AF/cn5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "1789060908",
+        "530186452"
+      ],
+      "lt_id_sptag": [
+        "-1978291909",
+        "-1189488055",
+        "1773147073",
+        "-1142585592"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1510082445",
+      "hc_lt_id_sptag": "-1690347337",
+      "id_img": "2012-Ford-Evos-Concept-V6-1536_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic3xcwO6Wy84l6QXT1EyqeTdPAogG/BOMwAGvu5vo60WJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic3xcwO6Wy84l6QXT1EyqeTMBD6lBVMASoQvxtVWrAApJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "530186452"
+      ],
+      "lt_id_sptag": [
+        "-1189488055",
+        "-867710451",
+        "-1951509800",
+        "296773687",
+        "1773147073"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1510082445",
+      "hc_lt_id_sptag": "548856809",
+      "id_img": "2004-Ford-Mustang-GT-R-Concept-V1-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie/L2wDhmkRjQ3vvFjWaULjkJpRNEzypNH9qHi0nf/Uz5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie/L2wDhmkRjQ3vvFjWaULjPhpRvqdmqAYu5SV/JPxTapVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "530186452"
+      ],
+      "lt_id_sptag": [
+        "-1978291909",
+        "-1189488055",
+        "-404222966",
+        "-749558582",
+        "1773147073"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "2075566231",
+      "hc_lt_id_sptag": "-2015763311",
+      "id_img": "2004-Ford-Shelby-Cobra-Concept-V1-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif6GdS91Y8q0hNtdItf+x43Cv10wR7brEwNyDIaCCnXJJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif6GdS91Y8q0hNtdItf+x43Xoe1G2TWVR/CexUGmkJkN5Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "1789060908",
+        "530186452"
+      ],
+      "lt_id_sptag": [
+        "-1978291909",
+        "-1189488055",
+        "-749558582",
+        "1773147073"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1510082445",
+      "hc_lt_id_sptag": "804338669",
+      "id_img": "2019-Ford-Bronco-R-Concept-V5-2160_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidAbd7sZKF3mY0mw3Vrx5zhZR7xhrOczPl88fEcy4sw1ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidAbd7sZKF3mY0mw3Vrx5zhTmXAK2JTk5Es5T6Rb2uTCpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "530186452"
+      ],
+      "lt_id_sptag": [
+        "-1189488055",
+        "1896912288",
+        "1773147073",
+        "-1945045153"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "2075566231",
+      "hc_lt_id_sptag": "-2015763311",
+      "id_img": "2004-Ford-Shelby-GR-1-Concept-V1-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifEAro5nUEORSVnBR3KbIpv1dhgI42/MQ9oL/kt31AXOpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifEAro5nUEORSVnBR3KbIpv0n15Qbiape12uQS453k3qZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "1789060908",
+        "530186452"
+      ],
+      "lt_id_sptag": [
+        "-1978291909",
+        "-1189488055",
+        "-749558582",
+        "1773147073"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "2075566231",
+      "hc_lt_id_sptag": "-828596732",
+      "id_img": "2004-Ford-Shelby-GR-1-Concept-V4-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZODclJcmP5JcQB18Ch3qo0MWxNk6bcK2E+fE/FQRkmpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZODclJcmP5JcQB18Ch3qojQtCsPituF7IvJ/HoiR/cpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "1789060908",
+        "530186452"
+      ],
+      "lt_id_sptag": [
+        "-1978291909",
+        "-1189488055",
+        "-1339099097",
+        "1773147073"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1510082445",
+      "hc_lt_id_sptag": "525044964",
+      "id_img": "2006-Ford-Mustang-Giugiaro-Concept-V1-1440_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiica0B9gia08fpVvzKJr7QcCT/jWTfEbKxppVs08ZGKbwZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiica0B9gia08fpVvzKJr7QcCOeder5zojLtOgIQx4q4k35Vy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "530186452"
+      ],
+      "lt_id_sptag": [
+        "-1189488055",
+        "-404222966",
+        "-1976444867",
+        "-749558582",
+        "1773147073"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1510082445",
+      "hc_lt_id_sptag": "1382467638",
+      "id_img": "2012-Ford-Evos-Concept-V1-1536_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifItVvfbAt/qzf6/ORa2QqdFW1ff2Ti8MR+WxcvuEFLw5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifItVvfbAt/qzf6/ORa2Qqd/O66xjzaodiUEErujeVzhpVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "530186452"
+      ],
+      "lt_id_sptag": [
+        "-1189488055",
+        "114857074",
+        "-1951509800",
+        "296773687",
+        "1773147073"
+      ]
+    }
+  ],
+  "lt_nortag": [
+    {
+      "id_nortag": "530186452",
+      "name_cl_nortag": "Ford",
+      "total_img": 1371,
+      "name_parent": "Car"
+    },
+    {
+      "id_nortag": "1789060908",
+      "name_cl_nortag": "Shelby",
+      "total_img": 105,
+      "name_parent": "Car"
+    }
+  ],
+  "lt_sptag": [
+    {
+      "id_sptag": "-1978291909",
+      "name_cl_sptag": "2004",
+      "name_parent": "Car",
+      "total": 140
+    },
+    {
+      "id_sptag": "-1976444867",
+      "name_cl_sptag": "2006",
+      "name_parent": "Car",
+      "total": 175
+    },
+    {
+      "id_sptag": "-1951509800",
+      "name_cl_sptag": "2012",
+      "name_parent": "Car",
+      "total": 513
+    },
+    {
+      "id_sptag": "-1945045153",
+      "name_cl_sptag": "2019",
+      "name_parent": "Car",
+      "total": 582
+    },
+    {
+      "id_sptag": "1773147073",
+      "name_cl_sptag": "Concept",
+      "name_parent": "Car",
+      "total": 1117
+    },
+    {
+      "id_sptag": "296773687",
+      "name_cl_sptag": "Evo",
+      "name_parent": "Car",
+      "total": 253
+    },
+    {
+      "id_sptag": "-1189488055",
+      "name_cl_sptag": "Ford Concepts",
+      "name_parent": "Car",
+      "total": 17
+    },
+    {
+      "id_sptag": "-404222966",
+      "name_cl_sptag": "Mustang",
+      "name_parent": "Car",
+      "total": 153
+    },
+    {
+      "id_sptag": "-749558582",
+      "name_cl_sptag": "V1-1440",
+      "name_parent": "Car",
+      "total": 747
+    },
+    {
+      "id_sptag": "114857074",
+      "name_cl_sptag": "V1-1536",
+      "name_parent": "Car",
+      "total": 275
+    },
+    {
+      "id_sptag": "-1612000988",
+      "name_cl_sptag": "V1-2160",
+      "name_parent": "Car",
+      "total": 188
+    },
+    {
+      "id_sptag": "-946072087",
+      "name_cl_sptag": "V2-1440",
+      "name_parent": "Car",
+      "total": 394
+    },
+    {
+      "id_sptag": "-1808514493",
+      "name_cl_sptag": "V2-2160",
+      "name_parent": "Car",
+      "total": 104
+    },
+    {
+      "id_sptag": "-1142585592",
+      "name_cl_sptag": "V3-1440",
+      "name_parent": "Car",
+      "total": 491
+    },
+    {
+      "id_sptag": "-1339099097",
+      "name_cl_sptag": "V4-1440",
+      "name_parent": "Car",
+      "total": 254
+    },
+    {
+      "id_sptag": "-474683441",
+      "name_cl_sptag": "V4-1536",
+      "name_parent": "Car",
+      "total": 160
+    },
+    {
+      "id_sptag": "1896912288",
+      "name_cl_sptag": "V5-2160",
+      "name_parent": "Car",
+      "total": 131
+    },
+    {
+      "id_sptag": "-867710451",
+      "name_cl_sptag": "V6-1536",
+      "name_parent": "Car",
+      "total": 136
+    }
+  ]
+}
