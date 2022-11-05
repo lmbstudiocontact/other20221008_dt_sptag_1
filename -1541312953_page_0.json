@@ -21,9 +21,9 @@
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "2099661840",
       "hc_lt_id_sptag": "-1211527646",
-      "id_img": "SwordArtOnline_676982_crop2608_418414889",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidgKYPZUJQYF4mmlaqJZgrNG+tmMX0pmXd1l2pYQrGaXZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidgKYPZUJQYF4mmlaqJZgrNJfmSDBbk9JzAeDysICQnGJVy4706IhQgSYlgwrgVRHU=",
+      "id_img": "SwordArtOnline_676982_crop2608_1866628028",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic1M2zzEQHfWAq8aZ2A0Dw9+s+umyfSRkNa0+mpXNaaqpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic1M2zzEQHfWAq8aZ2A0Dw9RDauoSEo3Nnz31Jdgj7C+pVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -80,10 +80,10 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "2099661840",
-      "hc_lt_id_sptag": "-1211527646",
-      "id_img": "SwordArtOnline_676982_crop2608_1866628028",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic1M2zzEQHfWAq8aZ2A0Dw9+s+umyfSRkNa0+mpXNaaqpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic1M2zzEQHfWAq8aZ2A0Dw9RDauoSEo3Nnz31Jdgj7C+pVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "-151429851",
+      "id_img": "SwordArtOnline_336739_crop2608_-1667268013",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicvP5ilWb9PfVFiEtP8WQHNWaaHIBI49ohdzPD8n2P/5pVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicvP5ilWb9PfVFiEtP8WQHNapkzT+PI4pSKF/3AfVFIdJVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -91,6 +91,7 @@
         "673403820"
       ],
       "lt_id_sptag": [
+        "-1282434113",
         "-1541312953",
         "1121192387",
         "1663502528",
@@ -100,6 +101,7 @@
         "-686693780",
         "-644141953",
         "-1052321700",
+        "-1152170041",
         "755798438",
         "2129551517",
         "1694464643",
@@ -138,10 +140,10 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "2099661840",
-      "hc_lt_id_sptag": "-151429851",
-      "id_img": "SwordArtOnline_336739_crop2608_-1667268013",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicvP5ilWb9PfVFiEtP8WQHNWaaHIBI49ohdzPD8n2P/5pVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicvP5ilWb9PfVFiEtP8WQHNapkzT+PI4pSKF/3AfVFIdJVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "-1211527646",
+      "id_img": "SwordArtOnline_676982_crop2608_418414889",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidgKYPZUJQYF4mmlaqJZgrNG+tmMX0pmXd1l2pYQrGaXZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidgKYPZUJQYF4mmlaqJZgrNJfmSDBbk9JzAeDysICQnGJVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -149,7 +151,6 @@
         "673403820"
       ],
       "lt_id_sptag": [
-        "-1282434113",
         "-1541312953",
         "1121192387",
         "1663502528",
@@ -159,7 +160,6 @@
         "-686693780",
         "-644141953",
         "-1052321700",
-        "-1152170041",
         "755798438",
         "2129551517",
         "1694464643",

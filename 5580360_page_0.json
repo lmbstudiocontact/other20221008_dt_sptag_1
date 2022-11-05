@@ -6,9 +6,9 @@
   "total_img": 2,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "3672925",
+  "hc_lt_data_img": "497030061",
   "hc_lt_nortag": "1620143994",
-  "hc_lt_sptag": "-1235721050",
+  "hc_lt_sptag": "-1346853435",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -17,6 +17,30 @@
     }
   ],
   "lt_data_img": [
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-924890430",
+      "hc_lt_id_sptag": "1149720286",
+      "id_img": "Naruto_703728_crop2608_-1856761258",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif9CwVduHyB7jzotQdH8LkXqhvbN2tMTZG7vEzuaxIp5ZVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif9CwVduHyB7jzotQdH8LkXsYjFLyCtMsK+r53Z6rzXqJVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "-467032699",
+        "-273690518"
+      ],
+      "lt_id_sptag": [
+        "-467032699",
+        "1956034203",
+        "-1216236529",
+        "5580360",
+        "-1732733924",
+        "63311442",
+        "707334961"
+      ]
+    },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-464421613",
@@ -45,29 +69,6 @@
         "234780714",
         "1078827483",
         "1410951528"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-924890430",
-      "hc_lt_id_sptag": "1197183729",
-      "id_img": "Naruto_703728_crop2608_-1856761258",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif9CwVduHyB7jzotQdH8LkXqhvbN2tMTZG7vEzuaxIp5ZVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif9CwVduHyB7jzotQdH8LkXsYjFLyCtMsK+r53Z6rzXqJVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "-467032699",
-        "-273690518"
-      ],
-      "lt_id_sptag": [
-        "1956034203",
-        "-1216236529",
-        "5580360",
-        "-1732733924",
-        "63311442",
-        "707334961"
       ]
     }
   ],
@@ -109,6 +110,12 @@
       "name_cl_sptag": "Boy Sad",
       "name_parent": "Anime",
       "total": 1551
+    },
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
     },
     {
       "id_sptag": "5580360",

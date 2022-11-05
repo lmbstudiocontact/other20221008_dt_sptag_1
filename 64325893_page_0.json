@@ -6,9 +6,9 @@
   "total_img": 3,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-936757547",
+  "hc_lt_data_img": "-1090858345",
   "hc_lt_nortag": "1495031106",
-  "hc_lt_sptag": "-1087813188",
+  "hc_lt_sptag": "-1589612371",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,25 +20,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1559976420",
-      "hc_lt_id_sptag": "35926073",
-      "id_img": "AoHaruRide_946968_crop2608_-1371114819",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicYH/MJqGO0L/ZO+G1kZXIUgYP09+2xbIpS/d3NPd8rpJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicYH/MJqGO0L/ZO+G1kZXIU29PsmfU3643JZ3zbv6ZS2pVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1728965817",
-        "1749007779"
-      ],
-      "lt_id_sptag": [
-        "64325893"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1559976420",
-      "hc_lt_id_sptag": "35926073",
+      "hc_lt_id_sptag": "533868921",
       "id_img": "AoHaruRide_682041_crop2608_-1453436070",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieqBkAHWcQQNcO2Ladk/e/YC4nQliNyrs+MFIRQROzxfZVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieqBkAHWcQQNcO2Ladk/e/YYMNABV7Q+N7OiW8yiebBPZVy4706IhQgSYlgwrgVRHU=",
@@ -50,13 +32,33 @@
         "1749007779"
       ],
       "lt_id_sptag": [
-        "64325893"
+        "64325893",
+        "1728965817"
       ]
     },
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1559976420",
-      "hc_lt_id_sptag": "35926073",
+      "hc_lt_id_sptag": "533868921",
+      "id_img": "AoHaruRide_946968_crop2608_-1371114819",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicYH/MJqGO0L/ZO+G1kZXIUgYP09+2xbIpS/d3NPd8rpJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicYH/MJqGO0L/ZO+G1kZXIU29PsmfU3643JZ3zbv6ZS2pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1728965817",
+        "1749007779"
+      ],
+      "lt_id_sptag": [
+        "64325893",
+        "1728965817"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1559976420",
+      "hc_lt_id_sptag": "533868921",
       "id_img": "AoHaruRide_682050_crop2608_-1453436040",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidenPhAt/ArewrkfoA0X8spdDfqDCbiv3hJh9q1XZwIeJVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidenPhAt/ArewrkfoA0X8spxX+Q38B/4tUHqAB3XTdMX5Vy4706IhQgSYlgwrgVRHU=",
@@ -68,7 +70,8 @@
         "1749007779"
       ],
       "lt_id_sptag": [
-        "64325893"
+        "64325893",
+        "1728965817"
       ]
     }
   ],
@@ -87,6 +90,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
+    },
     {
       "id_sptag": "64325893",
       "name_cl_sptag": "Futaba Yoshioka",

@@ -20,26 +20,6 @@
     {
       "hc_lt_id_alb": "51561147",
       "hc_lt_id_nortag": "-1510082445",
-      "hc_lt_id_sptag": "-400130116",
-      "id_img": "2017-Ford-F-150-Raptor-V3-1600_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicPMOBSE0KvSdurLpnFD05hWg9gj4hcC/GDa32MUo7EvpVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicPMOBSE0KvSdurLpnFD05hMU3COwM5GV0bKP1KnW4VS5Vy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "67508"
-      ],
-      "list_id_nortag": [
-        "530186452"
-      ],
-      "lt_id_sptag": [
-        "-1946892195",
-        "517905166",
-        "-1675259857",
-        "-1750021511"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "51561147",
-      "hc_lt_id_nortag": "-1510082445",
       "hc_lt_id_sptag": "15156234",
       "id_img": "2017-Ford-F-150-Raptor-V5-1600_crop_2_center",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifL59VcVso/9pTgSaP/lb61cV9svkF9YbzFgEKAFiWcd5Vy4706IhQgSYlgwrgVRHU=",
@@ -54,6 +34,26 @@
         "-1946892195",
         "-1675259857",
         "124878156",
+        "-1750021511"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "51561147",
+      "hc_lt_id_nortag": "-1510082445",
+      "hc_lt_id_sptag": "-42780379",
+      "id_img": "2017-Ford-F-150-Raptor-V2-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicplCSI6ZTYDaX4EB5r2u1ZfOSEY0nz9hN5UWS0tLgA+JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicplCSI6ZTYDaX4EB5r2u1Zt6myuP7dvramsmGRXpmcrZVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "67508"
+      ],
+      "list_id_nortag": [
+        "530186452"
+      ],
+      "lt_id_sptag": [
+        "714418671",
+        "-1946892195",
+        "-1675259857",
         "-1750021511"
       ]
     },
@@ -80,10 +80,10 @@
     {
       "hc_lt_id_alb": "51561147",
       "hc_lt_id_nortag": "-1510082445",
-      "hc_lt_id_sptag": "-42780379",
-      "id_img": "2017-Ford-F-150-Raptor-V2-1600_crop_2_center",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicplCSI6ZTYDaX4EB5r2u1ZfOSEY0nz9hN5UWS0tLgA+JVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicplCSI6ZTYDaX4EB5r2u1Zt6myuP7dvramsmGRXpmcrZVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "-400130116",
+      "id_img": "2017-Ford-F-150-Raptor-V3-1600_crop_2_center",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicPMOBSE0KvSdurLpnFD05hWg9gj4hcC/GDa32MUo7EvpVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicPMOBSE0KvSdurLpnFD05hMU3COwM5GV0bKP1KnW4VS5Vy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "67508"
       ],
@@ -91,8 +91,8 @@
         "530186452"
       ],
       "lt_id_sptag": [
-        "714418671",
         "-1946892195",
+        "517905166",
         "-1675259857",
         "-1750021511"
       ]

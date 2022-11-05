@@ -6,9 +6,9 @@
   "total_img": 4,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-171635542",
+  "hc_lt_data_img": "-519146846",
   "hc_lt_nortag": "-1115645283",
-  "hc_lt_sptag": "1637236742",
+  "hc_lt_sptag": "-1907631627",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -19,36 +19,11 @@
   "lt_data_img": [
     {
       "hc_lt_id_alb": "-824026795",
-      "hc_lt_id_nortag": "-1417899240",
-      "hc_lt_id_sptag": "-1496838840",
-      "id_img": "WhenTheyCry_146299_crop2608_-1464202488",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidSdiAAIsDCODz6lLP8FYk7N5zLXlLlkNO5RzhEhPX4EJVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidSdiAAIsDCODz6lLP8FYk7L9WTGE5QQUAR3hReocYB0pVy4706IhQgSYlgwrgVRHU=",
-      "lt_id_alb": [
-        "63410260"
-      ],
-      "list_id_nortag": [
-        "1728965817",
-        "1605996753"
-      ],
-      "lt_id_sptag": [
-        "2006013757",
-        "1510816723",
-        "-167005105",
-        "-329954670",
-        "29436897",
-        "1352703642",
-        "-1701713317",
-        "749327982"
-      ]
-    },
-    {
-      "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1326128312",
-      "hc_lt_id_sptag": "-658257854",
-      "id_img": "WhenTheyCry_197581_crop2608_-1222997029",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidM9CuSAX8dMEsIBSwQw0WkB/BhYEASF6ZZF/ewN9Qd0JVy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidM9CuSAX8dMEsIBSwQw0Wkez6MtDOSP9og09UmeyPsapVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "-1813020362",
+      "id_img": "WhenTheyCry_197581_crop2608_-1772501174",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid/Dfg+bH7stt7KGgW3rcVHchMhONbz18b3JIH42mnNI5Vy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid/Dfg+bH7stt7KGgW3rcVHYehxWgS21sqvfnaVWS+YWZVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -59,14 +34,15 @@
       "lt_id_sptag": [
         "2006013757",
         "1510816723",
-        "-1937610099",
-        "606716576",
         "750914149",
         "-1230434216",
+        "-729883027",
         "-353024394",
         "538504409",
+        "-1450260536",
+        "-899599709",
         "1078827483",
-        "-1358769180"
+        "491824726"
       ]
     },
     {
@@ -105,10 +81,10 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1326128312",
-      "hc_lt_id_sptag": "-1813020362",
-      "id_img": "WhenTheyCry_197581_crop2608_-1772501174",
-      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid/Dfg+bH7stt7KGgW3rcVHchMhONbz18b3JIH42mnNI5Vy4706IhQgSYlgwrgVRHU=",
-      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid/Dfg+bH7stt7KGgW3rcVHYehxWgS21sqvfnaVWS+YWZVy4706IhQgSYlgwrgVRHU=",
+      "hc_lt_id_sptag": "-658257854",
+      "id_img": "WhenTheyCry_197581_crop2608_-1222997029",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidM9CuSAX8dMEsIBSwQw0WkB/BhYEASF6ZZF/ewN9Qd0JVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidM9CuSAX8dMEsIBSwQw0Wkez6MtDOSP9og09UmeyPsapVy4706IhQgSYlgwrgVRHU=",
       "lt_id_alb": [
         "63410260"
       ],
@@ -119,15 +95,40 @@
       "lt_id_sptag": [
         "2006013757",
         "1510816723",
+        "-1937610099",
+        "606716576",
         "750914149",
         "-1230434216",
-        "-729883027",
         "-353024394",
         "538504409",
-        "-1450260536",
-        "-899599709",
         "1078827483",
-        "491824726"
+        "-1358769180"
+      ]
+    },
+    {
+      "hc_lt_id_alb": "-824026795",
+      "hc_lt_id_nortag": "-1417899240",
+      "hc_lt_id_sptag": "1718266078",
+      "id_img": "WhenTheyCry_146299_crop2608_-1464202488",
+      "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidSdiAAIsDCODz6lLP8FYk7N5zLXlLlkNO5RzhEhPX4EJVy4706IhQgSYlgwrgVRHU=",
+      "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidSdiAAIsDCODz6lLP8FYk7L9WTGE5QQUAR3hReocYB0pVy4706IhQgSYlgwrgVRHU=",
+      "lt_id_alb": [
+        "63410260"
+      ],
+      "list_id_nortag": [
+        "1728965817",
+        "1605996753"
+      ],
+      "lt_id_sptag": [
+        "2006013757",
+        "1510816723",
+        "-167005105",
+        "-329954670",
+        "29436897",
+        "1728965817",
+        "1352703642",
+        "-1701713317",
+        "749327982"
       ]
     }
   ],
@@ -152,6 +153,12 @@
     }
   ],
   "lt_sptag": [
+    {
+      "id_sptag": "1728965817",
+      "name_cl_sptag": "Couple",
+      "name_parent": "Anime",
+      "total": 2059
+    },
     {
       "id_sptag": "2006013757",
       "name_cl_sptag": "Furude Hanyu",

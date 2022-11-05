@@ -6,9 +6,9 @@
   "total_img": 2,
   "total_page": 0,
   "hc_lt_alb": "-760531221",
-  "hc_lt_data_img": "-1519454039",
+  "hc_lt_data_img": "-38786629",
   "hc_lt_nortag": "1541372204",
-  "hc_lt_sptag": "461471048",
+  "hc_lt_sptag": "-1738521795",
   "lt_alb": [
     {
       "id_alb": "63410260",
@@ -20,7 +20,7 @@
     {
       "hc_lt_id_alb": "-824026795",
       "hc_lt_id_nortag": "-1971765911",
-      "hc_lt_id_sptag": "1577143267",
+      "hc_lt_id_sptag": "811733228",
       "id_img": "OnePiece_864485_crop2608_-158637522",
       "link_img": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicaeOJ8YVvGv93kJ7CzThLUBe0xZE7tudn524Hsp75esJVy4706IhQgSYlgwrgVRHU=",
       "thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicaeOJ8YVvGv93kJ7CzThLU9pQi/NJ02iyc8TdS2TdLbpVy4706IhQgSYlgwrgVRHU=",
@@ -33,6 +33,7 @@
       ],
       "lt_id_sptag": [
         "1871663043",
+        "-467032699",
         "-553944920",
         "-2067283370",
         "1624360505",
@@ -92,6 +93,12 @@
       "name_cl_sptag": "Boa Hancock",
       "name_parent": "Anime",
       "total": 5
+    },
+    {
+      "id_sptag": "-467032699",
+      "name_cl_sptag": "Boy",
+      "name_parent": "Anime",
+      "total": 8592
     },
     {
       "id_sptag": "-62888169",
